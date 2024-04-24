@@ -1,4 +1,4 @@
 num1 = input("what is your 1st number??\n")
 num2 = input("what is your 2nd number??\n")
-two_total = num1 + num2
+two_total = int (num1) + int(num2) #sum of 2 number 
 print(two_total)
